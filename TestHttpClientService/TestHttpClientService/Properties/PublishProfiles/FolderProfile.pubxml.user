@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Dev\Work\TestHttpClientLimitation\TestHttpClientService\TestHttpClientService\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-11-20T18:27:43.4451156Z;True|2023-11-16T13:57:54.7687211+08:00;True|2023-11-16T13:57:49.1832862+08:00;True|2023-11-16T13:56:19.9822882+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
